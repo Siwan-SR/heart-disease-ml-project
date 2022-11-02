@@ -69,3 +69,6 @@ This is where you'll get different information about each of the features in you
 ### Preparing the tools
 
 We're going to use [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [NumPy](https://numpy.org/) for data analysis and manipulation.
+
+
+**Note:** Project done in course: [Complete Machine Learning & Data Science Bootcamp 2023 by Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
